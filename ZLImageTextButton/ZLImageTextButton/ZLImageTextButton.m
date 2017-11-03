@@ -23,6 +23,7 @@
 - (instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
+        self.zlButtonType = ZLImageLeftTextRight;
         [self addSubview:self.zlImageView];
         [self addSubview:self.zlTextLabel];
     }
