@@ -19,4 +19,8 @@ typedef enum {
 
 @property(nonatomic,assign)ZLButtonType zlButtonType;
 
+@property(nonatomic,strong)UIImageView* zlImageView;
+@property(nonatomic,strong)UILabel* zlTextLabel;
+@property(nonatomic,assign)CGSize zlImageSize;
+
 @end
