@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "ZLImageTextButton for UIButton"
   s.description  = <<-DESC
-                      
+                      Image and text button
                    DESC
   s.platform     = :ios, "7.0"
   s.homepage     = "https://github.com/czl0325/ZLImageTextButton.git"
