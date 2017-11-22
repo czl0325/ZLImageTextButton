@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "陈昭良" => "295183917@qq.com" }
   s.source       = { :git => "https://github.com/czl0325/ZLImageTextButton.git", :tag => "#{s.version}" }
-  s.source_files = "ZLImageTextButton", "ZLImageTextButton/ZLImageTextButton/*.{h,m}"
+  s.source_files = "ZLImageTextButton/*.{h,m}"
   s.requires_arc = true
 end
