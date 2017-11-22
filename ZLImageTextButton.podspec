@@ -9,11 +9,12 @@
 Pod::Spec.new do |s|
   s.name         = "ZLImageTextButton"
   s.version      = "0.0.1"
-  s.summary      = "ZLImageTextButton for UIButton"
+  s.summary      = "ZLImageTextButton"
   s.description  = <<-DESC
                       Image and text button
                    DESC
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "9.0"
+  s.ios.deployment_target = '9.0'
   s.homepage     = "https://github.com/czl0325/ZLImageTextButton.git"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "陈昭良" => "295183917@qq.com" }
