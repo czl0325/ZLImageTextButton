@@ -13,13 +13,14 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                       Image and text button
                    DESC
-  s.platform     = :ios, "9.0"
-  s.ios.deployment_target = '9.0'
-  s.homepage     = "https://github.com/czl0325/ZLImageTextButton.git"
+  s.platform     = :ios
+  #s.ios.deployment_target = '9.0'
+  s.homepage     = "https://github.com/czl0325/ZLImageTextButton"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author       = { "陈昭良" => "295183917@qq.com" }
+  s.author       = { "czl0325" => "295183917@qq.com" }
   s.source       = { :git => "https://github.com/czl0325/ZLImageTextButton.git", :tag => "#{s.version}" }
   s.source_files = "ZLImageTextButton/*.{h,m}"
+  s.exclude_files = "Classes/Exclude"
   s.requires_arc = true
   s.frameworks  = "UIKit","Foundation"
   s.dependency "Masonry"
