@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "ZLImageTextButton"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "ZLImageTextButton"
   s.description  = <<-DESC
                       Image and text button
@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.exclude_files = "Classes/Exclude"
   s.requires_arc = true
   s.frameworks  = "UIKit","Foundation"
-  s.dependency "Masonry"
+  #s.dependency "Masonry"
 end
