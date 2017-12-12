@@ -2,8 +2,8 @@
 //  ZLImageTextButtonTests.m
 //  ZLImageTextButtonTests
 //
-//  Created by zhaoliang chen on 2017/11/3.
-//  Copyright © 2017年 zhaoliang chen. All rights reserved.
+//  Created by qipai on 2017/12/12.
+//  Copyright © 2017年 czl. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

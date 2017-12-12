@@ -7,115 +7,110 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5D1CC7C79D05BCFB6AAAB172 /* libPods-ZLImageTextButton.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 172F512D3AB13848DF3B9A4F /* libPods-ZLImageTextButton.a */; };
-		ADCAA8531FDE2BDB009D0078 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = ADCAA8371FDE2BDB009D0078 /* LICENSE */; };
-		ADCAA8541FDE2BDB009D0078 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA83A1FDE2BDB009D0078 /* MASCompositeConstraint.m */; };
-		ADCAA8551FDE2BDB009D0078 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA83D1FDE2BDB009D0078 /* MASConstraint.m */; };
-		ADCAA8561FDE2BDB009D0078 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA83F1FDE2BDB009D0078 /* MASConstraintMaker.m */; };
-		ADCAA8571FDE2BDB009D0078 /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA8411FDE2BDB009D0078 /* MASLayoutConstraint.m */; };
-		ADCAA8581FDE2BDB009D0078 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA8451FDE2BDB009D0078 /* MASViewAttribute.m */; };
-		ADCAA8591FDE2BDB009D0078 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA8471FDE2BDB009D0078 /* MASViewConstraint.m */; };
-		ADCAA85A1FDE2BDB009D0078 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA8491FDE2BDB009D0078 /* NSArray+MASAdditions.m */; };
-		ADCAA85B1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA84C1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.m */; };
-		ADCAA85C1FDE2BDB009D0078 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA84E1FDE2BDB009D0078 /* View+MASAdditions.m */; };
-		ADCAA85D1FDE2BDB009D0078 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = ADCAA8511FDE2BDB009D0078 /* ViewController+MASAdditions.m */; };
-		ADCAA85E1FDE2BDB009D0078 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ADCAA8521FDE2BDB009D0078 /* README.md */; };
-		BE3F00011FABFE9E00B8D31B /* ZLImageTextButton.m in Sources */ = {isa = PBXBuildFile; fileRef = BE3F00001FABFE9E00B8D31B /* ZLImageTextButton.m */; };
-		BE3FFFCE1FABF9BB00B8D31B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BE3FFFCD1FABF9BB00B8D31B /* AppDelegate.m */; };
-		BE3FFFD11FABF9BB00B8D31B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BE3FFFD01FABF9BB00B8D31B /* ViewController.m */; };
-		BE3FFFD41FABF9BB00B8D31B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE3FFFD21FABF9BB00B8D31B /* Main.storyboard */; };
-		BE3FFFD61FABF9BB00B8D31B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE3FFFD51FABF9BB00B8D31B /* Assets.xcassets */; };
-		BE3FFFD91FABF9BB00B8D31B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE3FFFD71FABF9BB00B8D31B /* LaunchScreen.storyboard */; };
-		BE3FFFDC1FABF9BB00B8D31B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BE3FFFDB1FABF9BB00B8D31B /* main.m */; };
-		BE3FFFE61FABF9BB00B8D31B /* ZLImageTextButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BE3FFFE51FABF9BB00B8D31B /* ZLImageTextButtonTests.m */; };
-		BE3FFFF11FABF9BB00B8D31B /* ZLImageTextButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BE3FFFF01FABF9BB00B8D31B /* ZLImageTextButtonUITests.m */; };
+		AD41F2D11FDFCDED00D7731B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F2D01FDFCDED00D7731B /* AppDelegate.m */; };
+		AD41F2D41FDFCDED00D7731B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F2D31FDFCDED00D7731B /* ViewController.m */; };
+		AD41F2D91FDFCDED00D7731B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD41F2D81FDFCDED00D7731B /* Assets.xcassets */; };
+		AD41F2DC1FDFCDED00D7731B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD41F2DA1FDFCDED00D7731B /* LaunchScreen.storyboard */; };
+		AD41F2DF1FDFCDED00D7731B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F2DE1FDFCDED00D7731B /* main.m */; };
+		AD41F2E91FDFCDED00D7731B /* ZLImageTextButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F2E81FDFCDED00D7731B /* ZLImageTextButtonTests.m */; };
+		AD41F2F41FDFCDED00D7731B /* ZLImageTextButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F2F31FDFCDED00D7731B /* ZLImageTextButtonUITests.m */; };
+		AD41F3211FDFCE4500D7731B /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = AD41F3021FDFCE4500D7731B /* LICENSE */; };
+		AD41F3221FDFCE4500D7731B /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3051FDFCE4500D7731B /* MASCompositeConstraint.m */; };
+		AD41F3231FDFCE4500D7731B /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3081FDFCE4500D7731B /* MASConstraint.m */; };
+		AD41F3241FDFCE4500D7731B /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F30A1FDFCE4500D7731B /* MASConstraintMaker.m */; };
+		AD41F3251FDFCE4500D7731B /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F30C1FDFCE4500D7731B /* MASLayoutConstraint.m */; };
+		AD41F3261FDFCE4500D7731B /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3101FDFCE4500D7731B /* MASViewAttribute.m */; };
+		AD41F3271FDFCE4500D7731B /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3121FDFCE4500D7731B /* MASViewConstraint.m */; };
+		AD41F3281FDFCE4500D7731B /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3141FDFCE4500D7731B /* NSArray+MASAdditions.m */; };
+		AD41F3291FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3171FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.m */; };
+		AD41F32A1FDFCE4500D7731B /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3191FDFCE4500D7731B /* View+MASAdditions.m */; };
+		AD41F32B1FDFCE4500D7731B /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F31C1FDFCE4500D7731B /* ViewController+MASAdditions.m */; };
+		AD41F32C1FDFCE4500D7731B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD41F31D1FDFCE4500D7731B /* README.md */; };
+		AD41F32D1FDFCE4500D7731B /* ZLImageTextButton.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41F3201FDFCE4500D7731B /* ZLImageTextButton.m */; };
+		AD41F32F1FDFCE7900D7731B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD41F32E1FDFCE7900D7731B /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BE3FFFE21FABF9BB00B8D31B /* PBXContainerItemProxy */ = {
+		AD41F2E51FDFCDED00D7731B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BE3FFFC11FABF9BB00B8D31B /* Project object */;
+			containerPortal = AD41F2C41FDFCDED00D7731B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BE3FFFC81FABF9BB00B8D31B;
+			remoteGlobalIDString = AD41F2CB1FDFCDED00D7731B;
 			remoteInfo = ZLImageTextButton;
 		};
-		BE3FFFED1FABF9BB00B8D31B /* PBXContainerItemProxy */ = {
+		AD41F2F01FDFCDED00D7731B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BE3FFFC11FABF9BB00B8D31B /* Project object */;
+			containerPortal = AD41F2C41FDFCDED00D7731B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BE3FFFC81FABF9BB00B8D31B;
+			remoteGlobalIDString = AD41F2CB1FDFCDED00D7731B;
 			remoteInfo = ZLImageTextButton;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		172F512D3AB13848DF3B9A4F /* libPods-ZLImageTextButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ZLImageTextButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D84A555A293A87E64AE6202 /* Pods-ZLImageTextButton.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZLImageTextButton.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZLImageTextButton/Pods-ZLImageTextButton.debug.xcconfig"; sourceTree = "<group>"; };
-		ADCAA8371FDE2BDB009D0078 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		ADCAA8391FDE2BDB009D0078 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
-		ADCAA83A1FDE2BDB009D0078 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
-		ADCAA83B1FDE2BDB009D0078 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
-		ADCAA83C1FDE2BDB009D0078 /* MASConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraint.h; sourceTree = "<group>"; };
-		ADCAA83D1FDE2BDB009D0078 /* MASConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraint.m; sourceTree = "<group>"; };
-		ADCAA83E1FDE2BDB009D0078 /* MASConstraintMaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraintMaker.h; sourceTree = "<group>"; };
-		ADCAA83F1FDE2BDB009D0078 /* MASConstraintMaker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraintMaker.m; sourceTree = "<group>"; };
-		ADCAA8401FDE2BDB009D0078 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASLayoutConstraint.h; sourceTree = "<group>"; };
-		ADCAA8411FDE2BDB009D0078 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASLayoutConstraint.m; sourceTree = "<group>"; };
-		ADCAA8421FDE2BDB009D0078 /* Masonry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Masonry.h; sourceTree = "<group>"; };
-		ADCAA8431FDE2BDB009D0078 /* MASUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASUtilities.h; sourceTree = "<group>"; };
-		ADCAA8441FDE2BDB009D0078 /* MASViewAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewAttribute.h; sourceTree = "<group>"; };
-		ADCAA8451FDE2BDB009D0078 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
-		ADCAA8461FDE2BDB009D0078 /* MASViewConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewConstraint.h; sourceTree = "<group>"; };
-		ADCAA8471FDE2BDB009D0078 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
-		ADCAA8481FDE2BDB009D0078 /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASAdditions.h"; sourceTree = "<group>"; };
-		ADCAA8491FDE2BDB009D0078 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+MASAdditions.m"; sourceTree = "<group>"; };
-		ADCAA84A1FDE2BDB009D0078 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
-		ADCAA84B1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
-		ADCAA84C1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
-		ADCAA84D1FDE2BDB009D0078 /* View+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASAdditions.h"; sourceTree = "<group>"; };
-		ADCAA84E1FDE2BDB009D0078 /* View+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "View+MASAdditions.m"; sourceTree = "<group>"; };
-		ADCAA84F1FDE2BDB009D0078 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
-		ADCAA8501FDE2BDB009D0078 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
-		ADCAA8511FDE2BDB009D0078 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
-		ADCAA8521FDE2BDB009D0078 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		BE3F00001FABFE9E00B8D31B /* ZLImageTextButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZLImageTextButton.m; sourceTree = "<group>"; };
-		BE3FFFC91FABF9BB00B8D31B /* ZLImageTextButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZLImageTextButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE3FFFCC1FABF9BB00B8D31B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		BE3FFFCD1FABF9BB00B8D31B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		BE3FFFCF1FABF9BB00B8D31B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		BE3FFFD01FABF9BB00B8D31B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		BE3FFFD31FABF9BB00B8D31B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BE3FFFD51FABF9BB00B8D31B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BE3FFFD81FABF9BB00B8D31B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BE3FFFDA1FABF9BB00B8D31B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BE3FFFDB1FABF9BB00B8D31B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BE3FFFE11FABF9BB00B8D31B /* ZLImageTextButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZLImageTextButtonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE3FFFE51FABF9BB00B8D31B /* ZLImageTextButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZLImageTextButtonTests.m; sourceTree = "<group>"; };
-		BE3FFFE71FABF9BB00B8D31B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BE3FFFEC1FABF9BB00B8D31B /* ZLImageTextButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZLImageTextButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE3FFFF01FABF9BB00B8D31B /* ZLImageTextButtonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZLImageTextButtonUITests.m; sourceTree = "<group>"; };
-		BE3FFFF21FABF9BB00B8D31B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BE3FFFFF1FABFE9E00B8D31B /* ZLImageTextButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZLImageTextButton.h; sourceTree = "<group>"; };
-		EC733592AD6D593A37A554E0 /* Pods-ZLImageTextButton.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZLImageTextButton.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZLImageTextButton/Pods-ZLImageTextButton.release.xcconfig"; sourceTree = "<group>"; };
+		AD41F2CC1FDFCDED00D7731B /* ZLImageTextButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZLImageTextButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD41F2CF1FDFCDED00D7731B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AD41F2D01FDFCDED00D7731B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AD41F2D21FDFCDED00D7731B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		AD41F2D31FDFCDED00D7731B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AD41F2D81FDFCDED00D7731B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD41F2DB1FDFCDED00D7731B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AD41F2DD1FDFCDED00D7731B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD41F2DE1FDFCDED00D7731B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AD41F2E41FDFCDED00D7731B /* ZLImageTextButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZLImageTextButtonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD41F2E81FDFCDED00D7731B /* ZLImageTextButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZLImageTextButtonTests.m; sourceTree = "<group>"; };
+		AD41F2EA1FDFCDED00D7731B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD41F2EF1FDFCDED00D7731B /* ZLImageTextButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZLImageTextButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD41F2F31FDFCDED00D7731B /* ZLImageTextButtonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZLImageTextButtonUITests.m; sourceTree = "<group>"; };
+		AD41F2F51FDFCDED00D7731B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD41F3021FDFCE4500D7731B /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		AD41F3041FDFCE4500D7731B /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
+		AD41F3051FDFCE4500D7731B /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
+		AD41F3061FDFCE4500D7731B /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
+		AD41F3071FDFCE4500D7731B /* MASConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraint.h; sourceTree = "<group>"; };
+		AD41F3081FDFCE4500D7731B /* MASConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraint.m; sourceTree = "<group>"; };
+		AD41F3091FDFCE4500D7731B /* MASConstraintMaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraintMaker.h; sourceTree = "<group>"; };
+		AD41F30A1FDFCE4500D7731B /* MASConstraintMaker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraintMaker.m; sourceTree = "<group>"; };
+		AD41F30B1FDFCE4500D7731B /* MASLayoutConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASLayoutConstraint.h; sourceTree = "<group>"; };
+		AD41F30C1FDFCE4500D7731B /* MASLayoutConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASLayoutConstraint.m; sourceTree = "<group>"; };
+		AD41F30D1FDFCE4500D7731B /* Masonry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Masonry.h; sourceTree = "<group>"; };
+		AD41F30E1FDFCE4500D7731B /* MASUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASUtilities.h; sourceTree = "<group>"; };
+		AD41F30F1FDFCE4500D7731B /* MASViewAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewAttribute.h; sourceTree = "<group>"; };
+		AD41F3101FDFCE4500D7731B /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
+		AD41F3111FDFCE4500D7731B /* MASViewConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewConstraint.h; sourceTree = "<group>"; };
+		AD41F3121FDFCE4500D7731B /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
+		AD41F3131FDFCE4500D7731B /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASAdditions.h"; sourceTree = "<group>"; };
+		AD41F3141FDFCE4500D7731B /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+MASAdditions.m"; sourceTree = "<group>"; };
+		AD41F3151FDFCE4500D7731B /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		AD41F3161FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
+		AD41F3171FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
+		AD41F3181FDFCE4500D7731B /* View+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASAdditions.h"; sourceTree = "<group>"; };
+		AD41F3191FDFCE4500D7731B /* View+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "View+MASAdditions.m"; sourceTree = "<group>"; };
+		AD41F31A1FDFCE4500D7731B /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		AD41F31B1FDFCE4500D7731B /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
+		AD41F31C1FDFCE4500D7731B /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
+		AD41F31D1FDFCE4500D7731B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD41F31F1FDFCE4500D7731B /* ZLImageTextButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZLImageTextButton.h; sourceTree = "<group>"; };
+		AD41F3201FDFCE4500D7731B /* ZLImageTextButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLImageTextButton.m; sourceTree = "<group>"; };
+		AD41F32E1FDFCE7900D7731B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BE3FFFC61FABF9BB00B8D31B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5D1CC7C79D05BCFB6AAAB172 /* libPods-ZLImageTextButton.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BE3FFFDE1FABF9BB00B8D31B /* Frameworks */ = {
+		AD41F2C91FDFCDED00D7731B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE3FFFE91FABF9BB00B8D31B /* Frameworks */ = {
+		AD41F2E11FDFCDED00D7731B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD41F2EC1FDFCDED00D7731B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,145 +120,123 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9D6224E295223F3D0AF5C818 /* Pods */ = {
+		AD41F2C31FDFCDED00D7731B = {
 			isa = PBXGroup;
 			children = (
-				9D84A555A293A87E64AE6202 /* Pods-ZLImageTextButton.debug.xcconfig */,
-				EC733592AD6D593A37A554E0 /* Pods-ZLImageTextButton.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
-		ADCAA8361FDE2BDB009D0078 /* Masonry */ = {
-			isa = PBXGroup;
-			children = (
-				ADCAA8371FDE2BDB009D0078 /* LICENSE */,
-				ADCAA8381FDE2BDB009D0078 /* Masonry */,
-				ADCAA8521FDE2BDB009D0078 /* README.md */,
-			);
-			path = Masonry;
-			sourceTree = "<group>";
-		};
-		ADCAA8381FDE2BDB009D0078 /* Masonry */ = {
-			isa = PBXGroup;
-			children = (
-				ADCAA8391FDE2BDB009D0078 /* MASCompositeConstraint.h */,
-				ADCAA83A1FDE2BDB009D0078 /* MASCompositeConstraint.m */,
-				ADCAA83B1FDE2BDB009D0078 /* MASConstraint+Private.h */,
-				ADCAA83C1FDE2BDB009D0078 /* MASConstraint.h */,
-				ADCAA83D1FDE2BDB009D0078 /* MASConstraint.m */,
-				ADCAA83E1FDE2BDB009D0078 /* MASConstraintMaker.h */,
-				ADCAA83F1FDE2BDB009D0078 /* MASConstraintMaker.m */,
-				ADCAA8401FDE2BDB009D0078 /* MASLayoutConstraint.h */,
-				ADCAA8411FDE2BDB009D0078 /* MASLayoutConstraint.m */,
-				ADCAA8421FDE2BDB009D0078 /* Masonry.h */,
-				ADCAA8431FDE2BDB009D0078 /* MASUtilities.h */,
-				ADCAA8441FDE2BDB009D0078 /* MASViewAttribute.h */,
-				ADCAA8451FDE2BDB009D0078 /* MASViewAttribute.m */,
-				ADCAA8461FDE2BDB009D0078 /* MASViewConstraint.h */,
-				ADCAA8471FDE2BDB009D0078 /* MASViewConstraint.m */,
-				ADCAA8481FDE2BDB009D0078 /* NSArray+MASAdditions.h */,
-				ADCAA8491FDE2BDB009D0078 /* NSArray+MASAdditions.m */,
-				ADCAA84A1FDE2BDB009D0078 /* NSArray+MASShorthandAdditions.h */,
-				ADCAA84B1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.h */,
-				ADCAA84C1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.m */,
-				ADCAA84D1FDE2BDB009D0078 /* View+MASAdditions.h */,
-				ADCAA84E1FDE2BDB009D0078 /* View+MASAdditions.m */,
-				ADCAA84F1FDE2BDB009D0078 /* View+MASShorthandAdditions.h */,
-				ADCAA8501FDE2BDB009D0078 /* ViewController+MASAdditions.h */,
-				ADCAA8511FDE2BDB009D0078 /* ViewController+MASAdditions.m */,
-			);
-			path = Masonry;
-			sourceTree = "<group>";
-		};
-		BE3FFFC01FABF9BB00B8D31B = {
-			isa = PBXGroup;
-			children = (
-				BE3FFFCB1FABF9BB00B8D31B /* ZLImageTextButton */,
-				BE3FFFE41FABF9BB00B8D31B /* ZLImageTextButtonTests */,
-				BE3FFFEF1FABF9BB00B8D31B /* ZLImageTextButtonUITests */,
-				BE3FFFCA1FABF9BB00B8D31B /* Products */,
-				9D6224E295223F3D0AF5C818 /* Pods */,
-				F0E4B528AAC4BD618BCEC16B /* Frameworks */,
+				AD41F2CE1FDFCDED00D7731B /* ZLImageTextButton */,
+				AD41F2E71FDFCDED00D7731B /* ZLImageTextButtonTests */,
+				AD41F2F21FDFCDED00D7731B /* ZLImageTextButtonUITests */,
+				AD41F2CD1FDFCDED00D7731B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BE3FFFCA1FABF9BB00B8D31B /* Products */ = {
+		AD41F2CD1FDFCDED00D7731B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BE3FFFC91FABF9BB00B8D31B /* ZLImageTextButton.app */,
-				BE3FFFE11FABF9BB00B8D31B /* ZLImageTextButtonTests.xctest */,
-				BE3FFFEC1FABF9BB00B8D31B /* ZLImageTextButtonUITests.xctest */,
+				AD41F2CC1FDFCDED00D7731B /* ZLImageTextButton.app */,
+				AD41F2E41FDFCDED00D7731B /* ZLImageTextButtonTests.xctest */,
+				AD41F2EF1FDFCDED00D7731B /* ZLImageTextButtonUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BE3FFFCB1FABF9BB00B8D31B /* ZLImageTextButton */ = {
+		AD41F2CE1FDFCDED00D7731B /* ZLImageTextButton */ = {
 			isa = PBXGroup;
 			children = (
-				ADCAA8361FDE2BDB009D0078 /* Masonry */,
-				BE3FFFFE1FABFE7300B8D31B /* ZLImageTextButton */,
-				BE3FFFCC1FABF9BB00B8D31B /* AppDelegate.h */,
-				BE3FFFCD1FABF9BB00B8D31B /* AppDelegate.m */,
-				BE3FFFCF1FABF9BB00B8D31B /* ViewController.h */,
-				BE3FFFD01FABF9BB00B8D31B /* ViewController.m */,
-				BE3FFFD21FABF9BB00B8D31B /* Main.storyboard */,
-				BE3FFFD51FABF9BB00B8D31B /* Assets.xcassets */,
-				BE3FFFD71FABF9BB00B8D31B /* LaunchScreen.storyboard */,
-				BE3FFFDA1FABF9BB00B8D31B /* Info.plist */,
-				BE3FFFDB1FABF9BB00B8D31B /* main.m */,
+				AD41F3011FDFCE4500D7731B /* Masonry */,
+				AD41F31E1FDFCE4500D7731B /* ZLImageTextButton */,
+				AD41F2CF1FDFCDED00D7731B /* AppDelegate.h */,
+				AD41F2D01FDFCDED00D7731B /* AppDelegate.m */,
+				AD41F2D21FDFCDED00D7731B /* ViewController.h */,
+				AD41F2D31FDFCDED00D7731B /* ViewController.m */,
+				AD41F32E1FDFCE7900D7731B /* Main.storyboard */,
+				AD41F2D81FDFCDED00D7731B /* Assets.xcassets */,
+				AD41F2DA1FDFCDED00D7731B /* LaunchScreen.storyboard */,
+				AD41F2DD1FDFCDED00D7731B /* Info.plist */,
+				AD41F2DE1FDFCDED00D7731B /* main.m */,
 			);
 			path = ZLImageTextButton;
 			sourceTree = "<group>";
 		};
-		BE3FFFE41FABF9BB00B8D31B /* ZLImageTextButtonTests */ = {
+		AD41F2E71FDFCDED00D7731B /* ZLImageTextButtonTests */ = {
 			isa = PBXGroup;
 			children = (
-				BE3FFFE51FABF9BB00B8D31B /* ZLImageTextButtonTests.m */,
-				BE3FFFE71FABF9BB00B8D31B /* Info.plist */,
+				AD41F2E81FDFCDED00D7731B /* ZLImageTextButtonTests.m */,
+				AD41F2EA1FDFCDED00D7731B /* Info.plist */,
 			);
 			path = ZLImageTextButtonTests;
 			sourceTree = "<group>";
 		};
-		BE3FFFEF1FABF9BB00B8D31B /* ZLImageTextButtonUITests */ = {
+		AD41F2F21FDFCDED00D7731B /* ZLImageTextButtonUITests */ = {
 			isa = PBXGroup;
 			children = (
-				BE3FFFF01FABF9BB00B8D31B /* ZLImageTextButtonUITests.m */,
-				BE3FFFF21FABF9BB00B8D31B /* Info.plist */,
+				AD41F2F31FDFCDED00D7731B /* ZLImageTextButtonUITests.m */,
+				AD41F2F51FDFCDED00D7731B /* Info.plist */,
 			);
 			path = ZLImageTextButtonUITests;
 			sourceTree = "<group>";
 		};
-		BE3FFFFE1FABFE7300B8D31B /* ZLImageTextButton */ = {
+		AD41F3011FDFCE4500D7731B /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
-				BE3FFFFF1FABFE9E00B8D31B /* ZLImageTextButton.h */,
-				BE3F00001FABFE9E00B8D31B /* ZLImageTextButton.m */,
+				AD41F3021FDFCE4500D7731B /* LICENSE */,
+				AD41F3031FDFCE4500D7731B /* Masonry */,
+				AD41F31D1FDFCE4500D7731B /* README.md */,
 			);
-			path = ZLImageTextButton;
+			path = Masonry;
 			sourceTree = "<group>";
 		};
-		F0E4B528AAC4BD618BCEC16B /* Frameworks */ = {
+		AD41F3031FDFCE4500D7731B /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
-				172F512D3AB13848DF3B9A4F /* libPods-ZLImageTextButton.a */,
+				AD41F3041FDFCE4500D7731B /* MASCompositeConstraint.h */,
+				AD41F3051FDFCE4500D7731B /* MASCompositeConstraint.m */,
+				AD41F3061FDFCE4500D7731B /* MASConstraint+Private.h */,
+				AD41F3071FDFCE4500D7731B /* MASConstraint.h */,
+				AD41F3081FDFCE4500D7731B /* MASConstraint.m */,
+				AD41F3091FDFCE4500D7731B /* MASConstraintMaker.h */,
+				AD41F30A1FDFCE4500D7731B /* MASConstraintMaker.m */,
+				AD41F30B1FDFCE4500D7731B /* MASLayoutConstraint.h */,
+				AD41F30C1FDFCE4500D7731B /* MASLayoutConstraint.m */,
+				AD41F30D1FDFCE4500D7731B /* Masonry.h */,
+				AD41F30E1FDFCE4500D7731B /* MASUtilities.h */,
+				AD41F30F1FDFCE4500D7731B /* MASViewAttribute.h */,
+				AD41F3101FDFCE4500D7731B /* MASViewAttribute.m */,
+				AD41F3111FDFCE4500D7731B /* MASViewConstraint.h */,
+				AD41F3121FDFCE4500D7731B /* MASViewConstraint.m */,
+				AD41F3131FDFCE4500D7731B /* NSArray+MASAdditions.h */,
+				AD41F3141FDFCE4500D7731B /* NSArray+MASAdditions.m */,
+				AD41F3151FDFCE4500D7731B /* NSArray+MASShorthandAdditions.h */,
+				AD41F3161FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.h */,
+				AD41F3171FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.m */,
+				AD41F3181FDFCE4500D7731B /* View+MASAdditions.h */,
+				AD41F3191FDFCE4500D7731B /* View+MASAdditions.m */,
+				AD41F31A1FDFCE4500D7731B /* View+MASShorthandAdditions.h */,
+				AD41F31B1FDFCE4500D7731B /* ViewController+MASAdditions.h */,
+				AD41F31C1FDFCE4500D7731B /* ViewController+MASAdditions.m */,
 			);
-			name = Frameworks;
+			path = Masonry;
+			sourceTree = "<group>";
+		};
+		AD41F31E1FDFCE4500D7731B /* ZLImageTextButton */ = {
+			isa = PBXGroup;
+			children = (
+				AD41F31F1FDFCE4500D7731B /* ZLImageTextButton.h */,
+				AD41F3201FDFCE4500D7731B /* ZLImageTextButton.m */,
+			);
+			path = ZLImageTextButton;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BE3FFFC81FABF9BB00B8D31B /* ZLImageTextButton */ = {
+		AD41F2CB1FDFCDED00D7731B /* ZLImageTextButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE3FFFF51FABF9BB00B8D31B /* Build configuration list for PBXNativeTarget "ZLImageTextButton" */;
+			buildConfigurationList = AD41F2F81FDFCDED00D7731B /* Build configuration list for PBXNativeTarget "ZLImageTextButton" */;
 			buildPhases = (
-				EA107A14039FEFB42A77C98B /* [CP] Check Pods Manifest.lock */,
-				BE3FFFC51FABF9BB00B8D31B /* Sources */,
-				BE3FFFC61FABF9BB00B8D31B /* Frameworks */,
-				BE3FFFC71FABF9BB00B8D31B /* Resources */,
-				525301D853B9662773519C6E /* [CP] Embed Pods Frameworks */,
-				F2EA9A5BEE1AF4FF98642C06 /* [CP] Copy Pods Resources */,
+				AD41F2C81FDFCDED00D7731B /* Sources */,
+				AD41F2C91FDFCDED00D7731B /* Frameworks */,
+				AD41F2CA1FDFCDED00D7731B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -271,71 +244,71 @@
 			);
 			name = ZLImageTextButton;
 			productName = ZLImageTextButton;
-			productReference = BE3FFFC91FABF9BB00B8D31B /* ZLImageTextButton.app */;
+			productReference = AD41F2CC1FDFCDED00D7731B /* ZLImageTextButton.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BE3FFFE01FABF9BB00B8D31B /* ZLImageTextButtonTests */ = {
+		AD41F2E31FDFCDED00D7731B /* ZLImageTextButtonTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE3FFFF81FABF9BB00B8D31B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonTests" */;
+			buildConfigurationList = AD41F2FB1FDFCDED00D7731B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonTests" */;
 			buildPhases = (
-				BE3FFFDD1FABF9BB00B8D31B /* Sources */,
-				BE3FFFDE1FABF9BB00B8D31B /* Frameworks */,
-				BE3FFFDF1FABF9BB00B8D31B /* Resources */,
+				AD41F2E01FDFCDED00D7731B /* Sources */,
+				AD41F2E11FDFCDED00D7731B /* Frameworks */,
+				AD41F2E21FDFCDED00D7731B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BE3FFFE31FABF9BB00B8D31B /* PBXTargetDependency */,
+				AD41F2E61FDFCDED00D7731B /* PBXTargetDependency */,
 			);
 			name = ZLImageTextButtonTests;
 			productName = ZLImageTextButtonTests;
-			productReference = BE3FFFE11FABF9BB00B8D31B /* ZLImageTextButtonTests.xctest */;
+			productReference = AD41F2E41FDFCDED00D7731B /* ZLImageTextButtonTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BE3FFFEB1FABF9BB00B8D31B /* ZLImageTextButtonUITests */ = {
+		AD41F2EE1FDFCDED00D7731B /* ZLImageTextButtonUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE3FFFFB1FABF9BB00B8D31B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonUITests" */;
+			buildConfigurationList = AD41F2FE1FDFCDED00D7731B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonUITests" */;
 			buildPhases = (
-				BE3FFFE81FABF9BB00B8D31B /* Sources */,
-				BE3FFFE91FABF9BB00B8D31B /* Frameworks */,
-				BE3FFFEA1FABF9BB00B8D31B /* Resources */,
+				AD41F2EB1FDFCDED00D7731B /* Sources */,
+				AD41F2EC1FDFCDED00D7731B /* Frameworks */,
+				AD41F2ED1FDFCDED00D7731B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BE3FFFEE1FABF9BB00B8D31B /* PBXTargetDependency */,
+				AD41F2F11FDFCDED00D7731B /* PBXTargetDependency */,
 			);
 			name = ZLImageTextButtonUITests;
 			productName = ZLImageTextButtonUITests;
-			productReference = BE3FFFEC1FABF9BB00B8D31B /* ZLImageTextButtonUITests.xctest */;
+			productReference = AD41F2EF1FDFCDED00D7731B /* ZLImageTextButtonUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BE3FFFC11FABF9BB00B8D31B /* Project object */ = {
+		AD41F2C41FDFCDED00D7731B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0910;
-				ORGANIZATIONNAME = "zhaoliang chen";
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = czl;
 				TargetAttributes = {
-					BE3FFFC81FABF9BB00B8D31B = {
-						CreatedOnToolsVersion = 9.1;
+					AD41F2CB1FDFCDED00D7731B = {
+						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
-					BE3FFFE01FABF9BB00B8D31B = {
-						CreatedOnToolsVersion = 9.1;
+					AD41F2E31FDFCDED00D7731B = {
+						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
-						TestTargetID = BE3FFFC81FABF9BB00B8D31B;
+						TestTargetID = AD41F2CB1FDFCDED00D7731B;
 					};
-					BE3FFFEB1FABF9BB00B8D31B = {
-						CreatedOnToolsVersion = 9.1;
+					AD41F2EE1FDFCDED00D7731B = {
+						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
-						TestTargetID = BE3FFFC81FABF9BB00B8D31B;
+						TestTargetID = AD41F2CB1FDFCDED00D7731B;
 					};
 				};
 			};
-			buildConfigurationList = BE3FFFC41FABF9BB00B8D31B /* Build configuration list for PBXProject "ZLImageTextButton" */;
+			buildConfigurationList = AD41F2C71FDFCDED00D7731B /* Build configuration list for PBXProject "ZLImageTextButton" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -343,39 +316,39 @@
 				en,
 				Base,
 			);
-			mainGroup = BE3FFFC01FABF9BB00B8D31B;
-			productRefGroup = BE3FFFCA1FABF9BB00B8D31B /* Products */;
+			mainGroup = AD41F2C31FDFCDED00D7731B;
+			productRefGroup = AD41F2CD1FDFCDED00D7731B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BE3FFFC81FABF9BB00B8D31B /* ZLImageTextButton */,
-				BE3FFFE01FABF9BB00B8D31B /* ZLImageTextButtonTests */,
-				BE3FFFEB1FABF9BB00B8D31B /* ZLImageTextButtonUITests */,
+				AD41F2CB1FDFCDED00D7731B /* ZLImageTextButton */,
+				AD41F2E31FDFCDED00D7731B /* ZLImageTextButtonTests */,
+				AD41F2EE1FDFCDED00D7731B /* ZLImageTextButtonUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BE3FFFC71FABF9BB00B8D31B /* Resources */ = {
+		AD41F2CA1FDFCDED00D7731B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE3FFFD91FABF9BB00B8D31B /* LaunchScreen.storyboard in Resources */,
-				BE3FFFD61FABF9BB00B8D31B /* Assets.xcassets in Resources */,
-				ADCAA85E1FDE2BDB009D0078 /* README.md in Resources */,
-				ADCAA8531FDE2BDB009D0078 /* LICENSE in Resources */,
-				BE3FFFD41FABF9BB00B8D31B /* Main.storyboard in Resources */,
+				AD41F2DC1FDFCDED00D7731B /* LaunchScreen.storyboard in Resources */,
+				AD41F32F1FDFCE7900D7731B /* Main.storyboard in Resources */,
+				AD41F2D91FDFCDED00D7731B /* Assets.xcassets in Resources */,
+				AD41F32C1FDFCE4500D7731B /* README.md in Resources */,
+				AD41F3211FDFCE4500D7731B /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE3FFFDF1FABF9BB00B8D31B /* Resources */ = {
+		AD41F2E21FDFCDED00D7731B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE3FFFEA1FABF9BB00B8D31B /* Resources */ = {
+		AD41F2ED1FDFCDED00D7731B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -384,123 +357,64 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		525301D853B9662773519C6E /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZLImageTextButton/Pods-ZLImageTextButton-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		EA107A14039FEFB42A77C98B /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ZLImageTextButton-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F2EA9A5BEE1AF4FF98642C06 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZLImageTextButton/Pods-ZLImageTextButton-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		BE3FFFC51FABF9BB00B8D31B /* Sources */ = {
+		AD41F2C81FDFCDED00D7731B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADCAA8561FDE2BDB009D0078 /* MASConstraintMaker.m in Sources */,
-				BE3F00011FABFE9E00B8D31B /* ZLImageTextButton.m in Sources */,
-				BE3FFFD11FABF9BB00B8D31B /* ViewController.m in Sources */,
-				ADCAA8551FDE2BDB009D0078 /* MASConstraint.m in Sources */,
-				ADCAA85D1FDE2BDB009D0078 /* ViewController+MASAdditions.m in Sources */,
-				ADCAA8571FDE2BDB009D0078 /* MASLayoutConstraint.m in Sources */,
-				ADCAA85A1FDE2BDB009D0078 /* NSArray+MASAdditions.m in Sources */,
-				ADCAA8591FDE2BDB009D0078 /* MASViewConstraint.m in Sources */,
-				ADCAA8581FDE2BDB009D0078 /* MASViewAttribute.m in Sources */,
-				ADCAA85C1FDE2BDB009D0078 /* View+MASAdditions.m in Sources */,
-				BE3FFFDC1FABF9BB00B8D31B /* main.m in Sources */,
-				BE3FFFCE1FABF9BB00B8D31B /* AppDelegate.m in Sources */,
-				ADCAA8541FDE2BDB009D0078 /* MASCompositeConstraint.m in Sources */,
-				ADCAA85B1FDE2BDB009D0078 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				AD41F3291FDFCE4500D7731B /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				AD41F3271FDFCE4500D7731B /* MASViewConstraint.m in Sources */,
+				AD41F3221FDFCE4500D7731B /* MASCompositeConstraint.m in Sources */,
+				AD41F3281FDFCE4500D7731B /* NSArray+MASAdditions.m in Sources */,
+				AD41F32D1FDFCE4500D7731B /* ZLImageTextButton.m in Sources */,
+				AD41F2D41FDFCDED00D7731B /* ViewController.m in Sources */,
+				AD41F2DF1FDFCDED00D7731B /* main.m in Sources */,
+				AD41F3251FDFCE4500D7731B /* MASLayoutConstraint.m in Sources */,
+				AD41F2D11FDFCDED00D7731B /* AppDelegate.m in Sources */,
+				AD41F32B1FDFCE4500D7731B /* ViewController+MASAdditions.m in Sources */,
+				AD41F32A1FDFCE4500D7731B /* View+MASAdditions.m in Sources */,
+				AD41F3261FDFCE4500D7731B /* MASViewAttribute.m in Sources */,
+				AD41F3231FDFCE4500D7731B /* MASConstraint.m in Sources */,
+				AD41F3241FDFCE4500D7731B /* MASConstraintMaker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE3FFFDD1FABF9BB00B8D31B /* Sources */ = {
+		AD41F2E01FDFCDED00D7731B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE3FFFE61FABF9BB00B8D31B /* ZLImageTextButtonTests.m in Sources */,
+				AD41F2E91FDFCDED00D7731B /* ZLImageTextButtonTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE3FFFE81FABF9BB00B8D31B /* Sources */ = {
+		AD41F2EB1FDFCDED00D7731B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE3FFFF11FABF9BB00B8D31B /* ZLImageTextButtonUITests.m in Sources */,
+				AD41F2F41FDFCDED00D7731B /* ZLImageTextButtonUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BE3FFFE31FABF9BB00B8D31B /* PBXTargetDependency */ = {
+		AD41F2E61FDFCDED00D7731B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BE3FFFC81FABF9BB00B8D31B /* ZLImageTextButton */;
-			targetProxy = BE3FFFE21FABF9BB00B8D31B /* PBXContainerItemProxy */;
+			target = AD41F2CB1FDFCDED00D7731B /* ZLImageTextButton */;
+			targetProxy = AD41F2E51FDFCDED00D7731B /* PBXContainerItemProxy */;
 		};
-		BE3FFFEE1FABF9BB00B8D31B /* PBXTargetDependency */ = {
+		AD41F2F11FDFCDED00D7731B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BE3FFFC81FABF9BB00B8D31B /* ZLImageTextButton */;
-			targetProxy = BE3FFFED1FABF9BB00B8D31B /* PBXContainerItemProxy */;
+			target = AD41F2CB1FDFCDED00D7731B /* ZLImageTextButton */;
+			targetProxy = AD41F2F01FDFCDED00D7731B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		BE3FFFD21FABF9BB00B8D31B /* Main.storyboard */ = {
+		AD41F2DA1FDFCDED00D7731B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BE3FFFD31FABF9BB00B8D31B /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		BE3FFFD71FABF9BB00B8D31B /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				BE3FFFD81FABF9BB00B8D31B /* Base */,
+				AD41F2DB1FDFCDED00D7731B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -508,7 +422,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BE3FFFF31FABF9BB00B8D31B /* Debug */ = {
+		AD41F2F61FDFCDED00D7731B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -556,14 +470,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
-		BE3FFFF41FABF9BB00B8D31B /* Release */ = {
+		AD41F2F71FDFCDED00D7731B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -605,93 +519,87 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		BE3FFFF61FABF9BB00B8D31B /* Debug */ = {
+		AD41F2F91FDFCDED00D7731B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9D84A555A293A87E64AE6202 /* Pods-ZLImageTextButton.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5A5FZC73C2;
 				INFOPLIST_FILE = ZLImageTextButton/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.test.ZLImageTextButton;
+				PRODUCT_BUNDLE_IDENTIFIER = com.czl.ZLImageTextButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		BE3FFFF71FABF9BB00B8D31B /* Release */ = {
+		AD41F2FA1FDFCDED00D7731B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC733592AD6D593A37A554E0 /* Pods-ZLImageTextButton.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5A5FZC73C2;
 				INFOPLIST_FILE = ZLImageTextButton/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.test.ZLImageTextButton;
+				PRODUCT_BUNDLE_IDENTIFIER = com.czl.ZLImageTextButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		BE3FFFF91FABF9BB00B8D31B /* Debug */ = {
+		AD41F2FC1FDFCDED00D7731B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = ZLImageTextButtonTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qipai.ZLImageTextButtonTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.czl.ZLImageTextButtonTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZLImageTextButton.app/ZLImageTextButton";
 			};
 			name = Debug;
 		};
-		BE3FFFFA1FABF9BB00B8D31B /* Release */ = {
+		AD41F2FD1FDFCDED00D7731B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = ZLImageTextButtonTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qipai.ZLImageTextButtonTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.czl.ZLImageTextButtonTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZLImageTextButton.app/ZLImageTextButton";
 			};
 			name = Release;
 		};
-		BE3FFFFC1FABF9BB00B8D31B /* Debug */ = {
+		AD41F2FF1FDFCDED00D7731B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = ZLImageTextButtonUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qipai.ZLImageTextButtonUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.czl.ZLImageTextButtonUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ZLImageTextButton;
 			};
 			name = Debug;
 		};
-		BE3FFFFD1FABF9BB00B8D31B /* Release */ = {
+		AD41F3001FDFCDED00D7731B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = ZLImageTextButtonUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qipai.ZLImageTextButtonUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.czl.ZLImageTextButtonUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ZLImageTextButton;
@@ -701,43 +609,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BE3FFFC41FABF9BB00B8D31B /* Build configuration list for PBXProject "ZLImageTextButton" */ = {
+		AD41F2C71FDFCDED00D7731B /* Build configuration list for PBXProject "ZLImageTextButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE3FFFF31FABF9BB00B8D31B /* Debug */,
-				BE3FFFF41FABF9BB00B8D31B /* Release */,
+				AD41F2F61FDFCDED00D7731B /* Debug */,
+				AD41F2F71FDFCDED00D7731B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE3FFFF51FABF9BB00B8D31B /* Build configuration list for PBXNativeTarget "ZLImageTextButton" */ = {
+		AD41F2F81FDFCDED00D7731B /* Build configuration list for PBXNativeTarget "ZLImageTextButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE3FFFF61FABF9BB00B8D31B /* Debug */,
-				BE3FFFF71FABF9BB00B8D31B /* Release */,
+				AD41F2F91FDFCDED00D7731B /* Debug */,
+				AD41F2FA1FDFCDED00D7731B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE3FFFF81FABF9BB00B8D31B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonTests" */ = {
+		AD41F2FB1FDFCDED00D7731B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE3FFFF91FABF9BB00B8D31B /* Debug */,
-				BE3FFFFA1FABF9BB00B8D31B /* Release */,
+				AD41F2FC1FDFCDED00D7731B /* Debug */,
+				AD41F2FD1FDFCDED00D7731B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE3FFFFB1FABF9BB00B8D31B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonUITests" */ = {
+		AD41F2FE1FDFCDED00D7731B /* Build configuration list for PBXNativeTarget "ZLImageTextButtonUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BE3FFFFC1FABF9BB00B8D31B /* Debug */,
-				BE3FFFFD1FABF9BB00B8D31B /* Release */,
+				AD41F2FF1FDFCDED00D7731B /* Debug */,
+				AD41F3001FDFCDED00D7731B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BE3FFFC11FABF9BB00B8D31B /* Project object */;
+	rootObject = AD41F2C41FDFCDED00D7731B /* Project object */;
 }
