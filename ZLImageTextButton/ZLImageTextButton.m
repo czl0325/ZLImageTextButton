@@ -7,8 +7,12 @@
 //
 
 #import "ZLImageTextButton.h"
+#import "Masonry.h"
 
 @interface ZLImageTextButton()
+
+@property(nonatomic,strong)UIImageView* zlImageView;
+@property(nonatomic,strong)UILabel* zlTextLabel;        
 
 @end
 
@@ -39,6 +43,7 @@
     } else {
         self.zlTextLabel.textAlignment = NSTextAlignmentLeft;
     }
+    [self setNeedsLayout];
 }
 
 - (void)layoutSubviews {
@@ -119,14 +124,20 @@
 
 - (void)setImage:(UIImage *)image forState:(UIControlState)state {
     self.zlImageView.image = image;
+    self.imageView.image = image;
+    [self setNeedsLayout];
 }
 
 - (void)setTitle:(NSString *)title forState:(UIControlState)state {
     self.zlTextLabel.text = title;
+    self.titleLabel.text = title;
+    [self setNeedsLayout];
 }
 
 - (void)setTitleColor:(UIColor *)color forState:(UIControlState)state {
     self.zlTextLabel.textColor = color;
+    self.titleLabel.textColor = color;
+    [self setNeedsLayout];
 }
 
 - (UIImageView*)zlImageView {
