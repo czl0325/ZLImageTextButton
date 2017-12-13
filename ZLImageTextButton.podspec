@@ -20,8 +20,8 @@ Pod::Spec.new do |s|
   s.author       = { "czl0325" => "295183917@qq.com" }
   s.source       = { :git => "https://github.com/czl0325/ZLImageTextButton.git", :tag => "#{s.version}" }
   s.source_files = "ZLImageTextButton/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  #s.exclude_files = "Classes/Exclude"
   s.requires_arc = true
-  s.frameworks  = "UIKit","Foundation"
+  #s.frameworks  = "UIKit","Foundation"
   #s.dependency "Masonry"
 end
