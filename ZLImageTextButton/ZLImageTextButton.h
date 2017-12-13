@@ -6,6 +6,8 @@
 //  Copyright © 2017年 zhaoliang chen. All rights reserved.
 //
 
+/***0.0.2版本***/
+
 #import <UIKit/UIKit.h>
 
 typedef enum {
