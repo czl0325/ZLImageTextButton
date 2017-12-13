@@ -7,7 +7,6 @@
 //
 
 #import "ZLImageTextButton.h"
-#import "Masonry.h"
 
 @interface ZLImageTextButton()
 
