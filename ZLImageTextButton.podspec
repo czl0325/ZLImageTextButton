@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "czl0325" => "295183917@qq.com" }
   s.source       = { :git => "https://github.com/czl0325/ZLImageTextButton.git", :tag => "#{s.version}" }
-  s.source_files = "ZLImageTextButton/*.{h,m}"
+  s.source_files = "demo/ZLImageTextButton/ZLImageTextButton/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
   s.requires_arc = true
   #s.frameworks  = "UIKit","Foundation"
