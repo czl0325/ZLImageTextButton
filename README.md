@@ -3,17 +3,15 @@
 
 支持图左文右，图右文左，图上文下，图下文上4种模式的按钮，支持autolayout
 
----
-## 12.12更新版本：<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.修复了不能及时刷新的BUG。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.文字和图片增加了titleView和imageView的原生调用。<br>
 
-<br>
-<br>
-## 11.22更新版本：<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.增加了cocoapods的支持。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.增加了CGSize zlImageSize属性，可以自定义图片的大小，防止图片过大的情况，如果没有定制，有默认的图片大小。<br>
----
+### 12.12更新版本:
+1.修复了不能及时刷新的BUG。
+2.文字和图片增加了titleView和imageView的原生调用。
+
+
+### 11.22更新版本:
+1.增加了cocoapods的支持。
+2.增加了CGSize zlImageSize属性，可以自定义图片的大小，防止图片过大的情况，如果没有定制，有默认的图片大小。
 
 
 # 效果图
